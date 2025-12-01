@@ -5,11 +5,18 @@ This repository contains the GitHub Wiki documentation for our team.
 ## Structure
 
 ```
-├── Home.md                              # Wiki homepage
-├── _Sidebar.md                          # Wiki sidebar navigation
-├── _Footer.md                           # Wiki footer
-├── Daily-Standup-Posting-Guidelines.md  # Standup process documentation
-└── README.md                            # This file
+├── Home.md                                        # Wiki homepage
+├── _Sidebar.md                                    # Wiki sidebar navigation
+├── _Footer.md                                     # Wiki footer
+│
+├── Processes & Guidelines
+│   ├── Daily-Standup-Posting-Guidelines.md        # Standup process documentation
+│   └── Work-Discipline-and-Communication-Standards.md  # Work discipline & communication
+│
+├── Development
+│   └── GitHub-Workflow-and-Best-Practices.md      # Git workflow, branches, PRs, reviews
+│
+└── README.md                                      # This file
 ```
 
 ## How to Use
@@ -47,4 +54,15 @@ git push
 
 ## Current Documentation
 
-- **[Daily Standup Posting Guidelines](Daily-Standup-Posting-Guidelines.md)** - Structured communication process for daily standups
+### Processes & Guidelines
+
+| Document | Description |
+|----------|-------------|
+| [Daily Standup Posting Guidelines](Daily-Standup-Posting-Guidelines.md) | Morning/evening standup templates, blocker guidelines, and FAQ |
+| [Work Discipline & Communication Standards](Work-Discipline-and-Communication-Standards.md) | Work hours, attendance, leave policies, and communication expectations |
+
+### Development
+
+| Document | Description |
+|----------|-------------|
+| [GitHub Workflow & Best Practices](GitHub-Workflow-and-Best-Practices.md) | Branch naming, commit messages, PR process, code reviews, and merge strategies |

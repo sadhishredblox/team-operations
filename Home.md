@@ -4,18 +4,18 @@ Welcome to our team's central documentation hub. This wiki contains guidelines, 
 
 ## Quick Links
 
-- [Daily Standup Posting Guidelines](Daily-Standup-Posting-Guidelines) - Structured communication process for visibility and accountability
-- [Work Discipline & Communication Standards](Work-Discipline-and-Communication-Standards) - Daily workflow, attendance, and communication expectations
-- [GitHub Workflow & Best Practices](GitHub-Workflow-and-Best-Practices) - Branches, commits, PRs, and code reviews
+- [Daily Standup Posting Guidelines](Daily-Standup-Posting-Guidelines.md) - Structured communication process for visibility and accountability
+- [Work Discipline & Communication Standards](Work-Discipline-and-Communication-Standards.md) - Daily workflow, attendance, and communication expectations
+- [GitHub Workflow & Best Practices](GitHub-Workflow-and-Best-Practices.md) - Branches, commits, PRs, and code reviews
 
 ## Documentation Categories
 
 ### Processes & Guidelines
-- [Daily Standup Posting Guidelines](Daily-Standup-Posting-Guidelines)
-- [Work Discipline & Communication Standards](Work-Discipline-and-Communication-Standards)
+- [Daily Standup Posting Guidelines](Daily-Standup-Posting-Guidelines.md)
+- [Work Discipline & Communication Standards](Work-Discipline-and-Communication-Standards.md)
 
 ### Development
-- [GitHub Workflow & Best Practices](GitHub-Workflow-and-Best-Practices)
+- [GitHub Workflow & Best Practices](GitHub-Workflow-and-Best-Practices.md)
 
 ### Onboarding
 *Coming soon*
