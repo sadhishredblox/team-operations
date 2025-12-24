@@ -20,7 +20,7 @@ A standardized process for managing code, branches, commits, pull requests, and 
 
 ## 1. Branch Naming Conventions
 
-Branches must follow a consistent naming structure to improve clarity, traceability, and automation.
+Branches RBXt follow a consistent naming structure to improve clarity, traceability, and automation.
 
 ### Format
 
@@ -43,12 +43,12 @@ Branches must follow a consistent naming structure to improve clarity, traceabil
 ### Example Branch Names
 
 ```
-feature/MUS-15-add-playlist-export
-bug/MUS-23-fix-spotify-auth
-docs/MUS-9-getting-started-guide
-hotfix/MUS-31-critical-auth-fix
-refactor/MUS-44-cleanup-player-component
-chore/MUS-52-update-dependencies
+feature/RBX-15-add-playlist-export
+bug/RBX-23-fix-spotify-auth
+docs/RBX-9-getting-started-guide
+hotfix/RBX-31-critical-auth-fix
+refactor/RBX-44-cleanup-player-component
+chore/RBX-52-update-dependencies
 ```
 
 ---
@@ -81,10 +81,10 @@ Write clean, informative commit messages. Avoid vague or meaningless text such a
 ### Good Commit Examples
 
 ```
-feat(MUS-15): add playlist export functionality
-fix(MUS-23): resolve token refresh issue for Spotify login
-docs(MUS-9): update installation guide with new environment setup steps
-refactor(MUS-44): improve player component state structure
+feat(RBX-15): add playlist export functionality
+fix(RBX-23): resolve token refresh issue for Spotify login
+docs(RBX-9): update installation guide with new environment setup steps
+refactor(RBX-44): improve player component state structure
 ```
 
 ### ❌ Bad Examples
@@ -102,9 +102,9 @@ stuff done
 
 ### PR Requirements
 
-- ✅ PR title must reference ticket
-- ✅ PR must be assigned to at least one reviewer
-- ✅ CI checks must pass before merge
+- ✅ PR title RBXt reference ticket
+- ✅ PR RBXt be assigned to at least one reviewer
+- ✅ CI checks RBXt pass before merge
 - ✅ Include screenshots / videos for UI updates
 - ✅ Include test cases if relevant
 - ✅ Provide context and reasoning
@@ -112,7 +112,7 @@ stuff done
 ### PR Title Format
 
 ```
-[MUS-15] Add playlist export feature
+[RBX-15] Add playlist export feature
 ```
 
 ### PR Description Template
@@ -122,7 +122,7 @@ stuff done
 Brief explanation of what the change accomplishes.
 
 ### Ticket
-https://linear.app/team/MUS-15
+https://linear.app/team/RBX-15
 
 ### Changes
 - Item 1
@@ -218,7 +218,7 @@ main (production)
 ### Flow Diagram
 
 ```
-feature/MUS-15-add-export
+feature/RBX-15-add-export
          │
          ▼
         dev ──────────► staging ──────────► main
@@ -267,9 +267,9 @@ feature/MUS-15-add-export
 
 | Action | Format |
 |--------|--------|
-| **Branch** | `feature/MUS-15-short-desc` |
-| **Commit** | `feat(MUS-15): description` |
-| **PR Title** | `[MUS-15] Feature description` |
+| **Branch** | `feature/RBX-15-short-desc` |
+| **Commit** | `feat(RBX-15): description` |
+| **PR Title** | `[RBX-15] Feature description` |
 | **Tag** | `v1.2.3` |
 
 ---
