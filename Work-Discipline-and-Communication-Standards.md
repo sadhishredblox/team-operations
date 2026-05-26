@@ -40,7 +40,7 @@ This document outlines expectations for daily workflow, communication, accountab
 | Requirement | Policy |
 |-------------|--------|
 | **Work Start Time** | Between 9:30 AM – 10:00 AM IST |
-| **Minimum Work Duration** | 9 hours 30 minutes before clock-out |
+| **Minimum Work Duration** | 9 hours 15 minutes before clock-out |
 | **Leaves During Initial Period** | No leave permitted during first 3 months of onboarding, except genuine emergencies (proof / reason may be requested) |
 | **Attendance Responsibility** | It is the employee's responsibility to manage login/logout and ensure minimum hours are met |
 

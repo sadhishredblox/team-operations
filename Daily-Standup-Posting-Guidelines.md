@@ -87,7 +87,7 @@ A structured communication process that ensures visibility, accountability, and 
 **Projects & Tasks for Today:**
 Swypatune
 - [ ] Implement social sharing for round results — ML-342
-- [ ] Code review for Chris's voting UI PR
+- [ ] Code review for John's voting UI PR
 
 Swype App
 - [ ] Fix navigation bug on iPhone 12 mini — BUG-128
@@ -130,14 +130,14 @@ OR
 **What I Did Today:**
 Swypatune
 - [DONE] Implemented social sharing for round results — PR #842 (ready for review)
-- [IN PROGRESS] Code review for Chris's voting UI (60%, will complete tomorrow)
+- [IN PROGRESS] Code review for John's voting UI (60%, will complete tomorrow)
 
 Swype App
 - [DONE] Fixed navigation bug on iPhone 12 mini — BUG-128 (merged)
 
 **Blockers:**
 - Twitter preview images not showing. OG tags valid, but validator shows 404.
-  Need support: @chris to review CDN caching or meta generation.
+  Need support: @John to review CDN caching or meta generation.
 
 **Notes:**
 Bug fix also resolves mini/SE screen edge cases; screenshots added to PR.
@@ -253,7 +253,7 @@ A good blocker answers:
 | What is blocking you? | Missing Stripe sandbox keys |
 | Why is it blocking you? | Cannot test payment flow |
 | What do you need? | API keys or access |
-| Who can help? | @Chris |
+| Who can help? | @John |
 | What have you tried? | Using dev keys / reading docs |
 
 ### Good Blocker Example
@@ -265,7 +265,7 @@ A good blocker answers:
 - Need Stripe test API keys (test_pk & test_sk)
 - Production keys cause CORS errors
 - Blocking payment testing (3 days stalled)
-- @chris has access to Stripe dashboard
+- @John has access to Stripe dashboard
 
 **Tried:** tested dev keys, checked outdated docs
 ```
